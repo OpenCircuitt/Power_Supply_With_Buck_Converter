@@ -1,0 +1,27 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\PWR_Supply_with_BUCK_Converter\Project Outputs for PWR_Supply_with_BUCK_Converter\Pick Place for PWR_Supply_with_BUCK_Converter.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       27-06-25
+Time:       17:26
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C3","EEUFK0J102L","TopLayer","FP-RAD-TH-D_8_0_5-L_15_1-MFG","7.2500mm","6.0000mm","0","Aluminum Electrolytic Capacitors (Radial Lead Type) AEC-Q200 Qualified 1000uF ±20% 6.3V"
+"D1","W02G-E4/51","TopLayer","FP-WOG-MFG","22.5500mm","19.0500mm","0","BRIDGE RECT 1PHASE 200V 1.5A WOG"
+"U1","LM2596SX-3.3/NOPB","TopLayer","FP-KTT0005B-MFG","36.0875mm","17.6000mm","270","IC REG BUCK 3.3V 3A TO263-5"
+"R2","MCA12060D5000BP500","TopLayer","FP-MCA1206-IPC_C","79.2500mm","4.2500mm","0","Res MC Precision Thin Film 1206 500O 0.1% 0.25W ±25ppm/°C Molded Paper T/R"
+"R1","3214W-1-502E","TopLayer","BOUR-3214W_V","79.2500mm","9.0000mm","0","3214 - 5-Turn Trimpot(R) Trimming Potentiometer, 5 KOhm, +/- 10%, 0.25 W, -65 to 150 degC, RoHS, Tape and Reel"
+"L2","IHLP2525CZER220M11","TopLayer","FP-IHLP-2525CZ-FP_2_413x3-MFG","70.7500mm","6.2500mm","0","Commercial Inductors, Low DCR Series 22uH 2.9A 135mO 20%"
+"L1","7447714330","TopLayer","WE-PD_1050P","51.5000mm","17.5000mm","0",""
+"J2","691211720002","TopLayer","691211720002","73.8500mm","17.2500mm","90",""
+"J1","691211720002","TopLayer","691211720002","10.2500mm","18.2500mm","270",""
+"D2","1N5822","TopLayer","FP-DO-201AD-MFG","43.7500mm","6.0000mm","0","DIODE SCHOTTKY 40V 3A DO201AD"
+"C5","EEUFR1H101","TopLayer","FP-RAD-TH-D_8_0_5-L_11_5-MFG","26.2500mm","6.0000mm","0","Aluminum Electrolytic Capacitors (Radial Lead Type) 100uF ±20% 50V"
+"C4","EEUFK0J102L","TopLayer","FP-RAD-TH-D_8_0_5-L_15_1-MFG","16.5000mm","6.0000mm","0","Aluminum Electrolytic Capacitors (Radial Lead Type) AEC-Q200 Qualified 1000uF ±20% 6.3V"
+"C2","EEUFR1H101","TopLayer","FP-RAD-TH-D_8_0_5-L_11_5-MFG","62.0000mm","18.2500mm","0","Aluminum Electrolytic Capacitors (Radial Lead Type) 100uF ±20% 50V"
+"C1","EEUFM1V221L","TopLayer","FP-RAD-TH-D_8_0_5-L_15_1-MFG","61.0000mm","6.5000mm","0","Aluminum Electrolytic Capacitors (Radial Lead Type) 220uF ±20% 35V"
