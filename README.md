@@ -77,12 +77,15 @@ A compact, adjustable, and efficient DC power supply built around the **LM2596**
 
 ---
 
-## 📫 Contact
+## 👥 Contributors
 
-For questions or collaboration:  
-**[Your Name]**  
-Email: [your_email@example.com]  
-LinkedIn: [your_profile_link] *(optional)*
+- **Ahamed Raafiq**  
+  Email: *ahamadraafiqqq@email.com*  
+  LinkedIn: [linkedin.com/in/ahamad-raafiq](https://www.linkedin.com/in/ahamedraafiq/)
+
+- **Mazeen Ahamed**  
+  Email: *ali@email.com*  
+  LinkedIn: [linkedin.com/in/ali-ahmad](https://linkedin.com/in/ali-ahmad)
 
 ---
 
@@ -90,12 +93,4 @@ LinkedIn: [your_profile_link] *(optional)*
 
 If you found this useful, consider starring 🌟 this repo to support the project!
 
----
 
-
-![image alt](https://github.com/OpenCircuitt/Power_Supply_With_Buck_Converter/blob/be4e13b1af48f9d9a1a8b96c5990f2fc85fe6ed4/Images/Altim%20PCB%203D%20Image.jpg)
-![image alt](https://github.com/OpenCircuitt/Power_Supply_With_Buck_Converter/blob/be4e13b1af48f9d9a1a8b96c5990f2fc85fe6ed4/Images/Altium%20schematic.png)
-![image alt](https://github.com/OpenCircuitt/Power_Supply_With_Buck_Converter/blob/be4e13b1af48f9d9a1a8b96c5990f2fc85fe6ed4/Images/Multisim%20Circuit.jpg)
-![image alt](https://github.com/OpenCircuitt/Power_Supply_With_Buck_Converter/blob/be4e13b1af48f9d9a1a8b96c5990f2fc85fe6ed4/Images/Top%20Layer.png)
-![image alt](https://github.com/OpenCircuitt/Power_Supply_With_Buck_Converter/blob/be4e13b1af48f9d9a1a8b96c5990f2fc85fe6ed4/Images/Bottom%20Layer.png)
-![image alt](https://github.com/OpenCircuitt/Power_Supply_With_Buck_Converter/blob/be4e13b1af48f9d9a1a8b96c5990f2fc85fe6ed4/Images/Drill%20Drawings.png)
