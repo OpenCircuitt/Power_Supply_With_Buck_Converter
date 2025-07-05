@@ -84,8 +84,8 @@ A compact, adjustable, and efficient DC power supply built around the **LM2596**
   LinkedIn: [linkedin.com/in/ahamad-raafiq](https://www.linkedin.com/in/ahamedraafiq/)
 
 - **Mazeen Ahamed**  
-  Email: *ali@email.com*  
-  LinkedIn: [linkedin.com/in/ali-ahmad](https://linkedin.com/in/ali-ahmad)
+  Email: *mazeenahamed00@gmail.com*  
+  LinkedIn: [linkedin.com/in/ali-ahmad](https://www.linkedin.com/in/mazeen-ahamed-3b9aa134b/)
 
 ---
 
